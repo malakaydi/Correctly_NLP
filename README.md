@@ -1,7 +1,9 @@
 
 # Correctly_NLP 🚀
 
-![Correctly_NLP Banner](logoo.png)
+<p align="center">
+  <img src="logoo.png" alt="Correctly_NLP Banner">
+</p>
 
 ## Table of Contents
 - [Overview](#-overview)
