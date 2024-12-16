@@ -11,10 +11,8 @@ numpy==1.23.5
 textdistance==4.5.0
 transformers==4.35.0
 torch==2.0.1
-language_tool_python
-rapidfuzz
-pyspellchecker 
-tensorflow
-tf-keras
-sentencepiece
-sacremoses
+language-tool-python==2.7.1
+rapidfuzz==3.0.0
+pyspellchecker==0.7.2
+sentencepiece==0.1.99
+sacremoses==0.0.53
