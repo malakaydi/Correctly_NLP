@@ -1,7 +1,7 @@
 
 # Correctly_NLP 🚀
 
-![Correctly_NLP Banner](logo (2).png)
+![Correctly_NLP Banner](logoo.png)
 
 ## Table of Contents
 - [Overview](#-overview)
