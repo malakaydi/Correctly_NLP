@@ -84,6 +84,11 @@ http://127.0.0.1:5000/Upload_PDF
 3. Click "Process PDF" to correct and analyze the PDF content.
 4. The corrected PDF will be downloaded to your local.
 
+
+<p align="center">
+  <img src="ui.png" alt="Interface">
+</p>
+
 ## 🗂️ Project Structure
 
 ```
